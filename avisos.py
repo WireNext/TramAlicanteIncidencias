@@ -4,13 +4,12 @@ import json
 
 url = "https://www.tramalacant.es/wp-content/themes/metrovalencia/functions/ajax-no-wp.php"
 
-payload = {
-    "action": "formularios_ajax",
-    "data": "action=comprobar-usuario&lang=es"
+headers = {
+    "User-Agent": "Mozilla/5.0 (compatible; AvisosScript/1.0; +https://tuweb.com)"
 }
 
 try:
-    response = requests.post(url, data=payload)
+    response = requests.post(url, headers=headers)
     response.raise_for_status()
     json_data = response.json()
     html_alertas = json_data.get("htmlAlertas", "")
@@ -28,7 +27,6 @@ try:
             "texto_alerta": texto_alerta
         })
 
-    # Guardar en JSON
     with open("avisos_tramalacant.json", "w", encoding="utf-8") as f:
         json.dump(avisos, f, ensure_ascii=False, indent=4)
 
