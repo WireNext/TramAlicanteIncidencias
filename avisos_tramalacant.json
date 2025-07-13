@@ -1,1 +1,38 @@
-
+[
+    {
+        "lineas_afectadas": [
+            "Linea 2",
+            "Linea 3",
+            "Linea 4",
+            "Linea 5"
+        ],
+        "texto_alerta": "Se informa a las personas usuarias de la tarjeta Móbilis 30 entre 15 y 30 años que para poder viajar, mientras sean resueltas las incidencias informáticas para el cambio de títulos de la zona TAM, deben pasar la tarjeta por una validadora en dicha zona habilitándose unos días de servicio sin coste hasta que sean resueltos los problemas."
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 9"
+        ],
+        "texto_alerta": "Obras de rehabilitación del viaducto de la CV-740 tramo Benissa-Teulada. Del 4 al 31 de julio, servicio de autobús sustitutorio.Consulta los horarios."
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 1",
+            "Linea 2",
+            "Linea 3",
+            "Linea 4",
+            "Linea 9"
+        ],
+        "texto_alerta": "TRAMNOCHADOR, Los viernes y sábados de julio y agosto, y el jueves 14 de agosto, servicio nocturno en L1, L2, L3, L4 y L9. Alicante-Benidorm-Altea.Consulta los horarios."
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 1",
+            "Linea 2",
+            "Linea 3",
+            "Linea 4",
+            "Linea 5",
+            "Linea 9"
+        ],
+        "texto_alerta": "🚲 🛴⚡Nueva normativa para bicicletas y patinetes. Accede en este enlace."
+    }
+]
