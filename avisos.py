@@ -1,15 +1,19 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 url = "https://www.tramalacant.es/wp-content/themes/metrovalencia/functions/ajax-no-wp.php"
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (compatible; AvisosScript/1.0; +https://tuweb.com)"
+payload = {
+    "action": "formularios_ajax",
+    "data": "action=comprobar-usuario&lang=es"
 }
 
 try:
-    response = requests.post(url, headers=headers)
+    response = requests.post(url, data=payload, verify=False)  # <- Aquí
     response.raise_for_status()
     json_data = response.json()
     html_alertas = json_data.get("htmlAlertas", "")
