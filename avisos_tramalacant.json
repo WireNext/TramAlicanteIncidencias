@@ -1,6 +1,15 @@
 [
     {
         "lineas_afectadas": [
+            "Línea 1",
+            "Línea 2",
+            "Línea 3",
+            "Línea 4"
+        ],
+        "texto_alerta": "Ascensor Mercado fuera de servicio."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 2",
             "Linea 3",
             "Linea 4",
