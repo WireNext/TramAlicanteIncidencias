@@ -1,6 +1,20 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 2",
+            "Linea 1",
+            "Linea 3",
+            "Linea 4",
+            "Linea 5",
+            "Línea 1",
+            "Línea 2",
+            "Línea 3",
+            "Línea 4"
+        ],
+        "texto_alerta": "Suprimida circulación entre Ciudad Jardín y Sant Vicent del Raspeig. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 9"
         ],
         "texto_alerta": "Obras de rehabilitación del viaducto de la CV-740 tramo Benissa-Teulada. Del 4 al 31 de julio, servicio de autobús sustitutorio.Consulta los horarios con transbordo en autobús, en PDF."
