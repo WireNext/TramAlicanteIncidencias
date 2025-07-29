@@ -7,6 +7,12 @@
     },
     {
         "lineas_afectadas": [
+            "Linea 9"
+        ],
+        "texto_alerta": "Benissa-TeuladaEl sábado 1 de agosto se restablece la circulación ferroviaria del tramo Benissa-Teulada desde el inicio del servicio. Consulta los horarios."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 1",
             "Linea 2",
             "Linea 3",
