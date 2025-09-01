@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "lineas_afectadas": [
+            "Linea 1"
+        ],
+        "texto_alerta": "AVISO L1: por vehículo interceptando la vía, circulación interrumpida entre Costera Pastor y Benidorm. Servicio sustitutorio en autobús entre Creueta y Benidorm. Terra Mítica sin servicio.."
+    }
+]
