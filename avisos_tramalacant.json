@@ -4,5 +4,16 @@
             "Linea 5"
         ],
         "texto_alerta": "Ciclovía Litoral: El domingo 21 de septiembre, con motivo de la celebración de esta jornada de movilidad se suprime el servicio entre las paradas de Sangueta y Porta del Mar desde las 7:00 hasta las 15:00 horas."
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 1",
+            "Linea 2",
+            "Linea 3",
+            "Linea 4",
+            "Linea 5",
+            "Linea 9"
+        ],
+        "texto_alerta": "Día Europeo sin CocheEl lunes 22 de septiembreTRAM d’Alacant ofrecerá el transporte gratuito con motivo de la celebración de la Semana Europea de la Movilidad.Para facilitar el acceso, todas las validadoras estarán fuera de servicio."
     }
 ]
