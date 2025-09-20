@@ -1,20 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 1",
-            "Linea 2",
-            "Linea 3",
-            "Linea 4",
-            "Linea 5",
-            "Línea 1",
-            "Línea 2",
-            "Línea 3",
-            "Línea 4"
-        ],
-        "texto_alerta": "Ascensor de vía 1 de Mercado fuera de servicio"
-    },
-    {
-        "lineas_afectadas": [
             "Linea 5"
         ],
         "texto_alerta": "Ciclovía Litoral: El domingo 21 de septiembre, con motivo de la celebración de esta jornada de movilidad se suprime el servicio entre las paradas de Sangueta y Porta del Mar desde las 7:00 hasta las 15:00 horas."
