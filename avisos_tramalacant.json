@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "lineas_afectadas": [
+            "Linea 4",
+            "Linea 3",
+            "Linea 2",
+            "Linea 1",
+            "Línea 1",
+            "Línea 2",
+            "Línea 3",
+            "Línea 4"
+        ],
+        "texto_alerta": "Ascensor Luceros fuera de servicio por \"Trofeo Diputación de Alicante Escuelas de Ciclismo\""
+    }
+]
