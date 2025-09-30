@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 1"
+        ],
+        "texto_alerta": "Aviso L1: Por avería eléctrica retrasos generalizados entre Calapiteres y Hospital Vila"
+    },
+    {
+        "lineas_afectadas": [
             "Linea 1",
             "Linea 2",
             "Linea 3",
