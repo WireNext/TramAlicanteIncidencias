@@ -1,9 +1,14 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 5"
+            "Linea 5",
+            "Linea 1",
+            "Linea 2",
+            "Linea 3",
+            "Linea 4",
+            "Linea 9"
         ],
-        "texto_alerta": "El 10 de octubre se suprime el servicio de Línea 5 (Porta del Mar-Plaza La Coruña). Sentimos las molestias."
+        "texto_alerta": "ALERTA ROJA – VIERNES 10 DE OCTUBRE  Se suprime el  servicio de la Línea 5 (Porta del Mar-Plaça La Coruña).  Las Líneas 1, 2 , 3   4 y 9  circularán en su horario habitual . Si necesitas desplazarte, infórmate con antelación . Como consecuencia de las lluvias previstas, a lo largo del día se pueden producir  modificaciones . Estaremos actualizando la información constantemente"
     },
     {
         "lineas_afectadas": [
