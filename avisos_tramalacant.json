@@ -1,13 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 4",
-            "Linea 5"
-        ],
-        "texto_alerta": "Aviso: Circulación suprimida entre Avenida Naciones y Holanda"
-    },
-    {
-        "lineas_afectadas": [
             "Linea 1",
             "Linea 2",
             "Linea 3",
