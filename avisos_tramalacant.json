@@ -1,6 +1,7 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 4",
             "Linea 5"
         ],
         "texto_alerta": "El 10 de octubre se suprime el servicio de Línea 5 (Porta del Mar-Plaza La Coruña). Sentimos las molestias."
