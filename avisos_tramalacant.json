@@ -1,12 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 9"
-        ],
-        "texto_alerta": "Retrasos generalizados en L9"
-    },
-    {
-        "lineas_afectadas": [
             "Linea 1",
             "Linea 2",
             "Linea 3",
