@@ -1,17 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 1",
-            "Linea 2",
-            "Linea 3",
-            "Linea 4",
-            "Linea 5",
-            "Linea 9"
-        ],
-        "texto_alerta": "Parada el día 29 de octubreCon motivo de las riadas e inundaciones sufridas hace un año, en homenaje y recuerdo a las víctimas y en solidaridad con sus familiares y personas allegadas, así como con todas las personas que se vieron afectadas, el miércoles día 29 de octubre, a las 12.00 horas, FGV realizará un paro simbólico de 2 minutos."
-    },
-    {
-        "lineas_afectadas": [
             "Linea 2",
             "Linea 3",
             "Linea 4"
