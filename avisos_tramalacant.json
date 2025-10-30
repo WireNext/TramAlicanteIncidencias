@@ -6,16 +6,5 @@
             "Linea 4"
         ],
         "texto_alerta": "Halloween, servicio especial nocturno la noche del 31 de octubre. Consulta los horarios."
-    },
-    {
-        "lineas_afectadas": [
-            "Linea 1",
-            "Linea 2",
-            "Linea 3",
-            "Linea 4",
-            "Linea 5",
-            "Linea 9"
-        ],
-        "texto_alerta": "NORMATIVA DE BICICLETASDesde el 1 de octubre queda autorizado el acceso de bicicletas no eléctricas a las instalaciones, dependencias y unidades de Ferrocarrils de la Generalitat Valenciana en la red de TRAM d´Alacant.Se permite el acceso y transporte de bicicletas no eléctricas plegables en toda la red de TRAM d´Alacant, quedando prohibido el de cualquier bicicleta que no reúna esas características.Consulta las nuevas condiciones pulsando en este enlace."
     }
 ]
