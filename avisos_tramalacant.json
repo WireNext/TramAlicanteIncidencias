@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "lineas_afectadas": [
+            "Linea 1"
+        ],
+        "texto_alerta": "Prueba"
+    }
+]
